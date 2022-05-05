@@ -1,0 +1,32 @@
+#KENYA{
+    border: 3px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color: black;
+    background-color: red;
+}
+#CONGO{
+    border: 3px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color: blue;
+    background-color: yellow;
+}
+#RUSSIA{
+    border: 3px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    background-color: #185abc;
+}
+#CAMEROON{
+    border: 3px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color: red;
+    background-color: black;
+}
